@@ -34,7 +34,7 @@ const MyCourses = () => {
           zIndex: 9999,
         }}
       >
-        <Spinner style={{ width: "3rem", height: "3rem" }} color="primary" />
+        {/* <Spinner style={{ width: "3rem", height: "3rem" }} color="primary" /> */}
       </div>
     )}
 
